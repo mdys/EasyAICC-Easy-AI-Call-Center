@@ -14,3 +14,13 @@
 <img width="1339" height="705" alt="image" src="https://github.com/user-attachments/assets/c81d699f-9231-4a75-ae82-95af5d04d0e5" />
 
 # 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）
+
+# 注意事项，Note
+
+代码中使用的开源模块遵循各自的开源协议。代码的其他部分遵循 MIT 许可。
+商业使用：
+请联系 QQ：997731263、邮箱：997731263@qq.com 或微信：easyaicc 获取商业许可。虽然商业许可是免费的，但我们需要了解哪些公司正在使用它们。
+
+The open-source modules used in the code comply with their own open-source protocols. Other parts of the code are licensed under MIT.
+For commercial use:
+Please contact QQ:997731263,email:997731263@qq.com or WeChat ID:easyaicc, to obtain a commercial license. Although commercial licenses are free, we need to know which companies are using them.
